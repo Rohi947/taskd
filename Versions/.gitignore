@@ -1,0 +1,3 @@
+*.log
+taskd_v1_mutex
+taskd_v2_tls
